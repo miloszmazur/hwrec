@@ -6,6 +6,10 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 public class Mainframe extends JFrame 
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	JFrame gui;
 	
 	public static void main(String[]args)
